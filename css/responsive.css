@@ -1,0 +1,116 @@
+@media (max-width: 1199px){
+	.post h4 {
+    font-size: 18px;
+    max-width: 205px;}
+    .post ul li i {
+    font-size: 10px;}
+    .post ul li span {
+    font-size: 12px;}
+    .post ul {
+    margin: 12px 0px;
+    margin-bottom: 20px;}
+    .post a {
+    padding: 3px 20px;
+    font-size: 15px;}
+    .footer4 ul li p {
+    font-size: 15px;}
+    .footerpost ul li {
+    display: block;
+    margin-left: 0px;}
+
+}
+
+@media (max-width: 575px){
+	.right-icon {display: none;}
+	.left-icon {
+    margin: 0 auto;}
+    .testimonial-content h4 {
+    text-align: left !important;}
+    .testimonial-content h2 {
+    text-align: left !important;}
+    .testimonial p {
+    max-width: 300px !important;
+    text-align: left !important;
+	margin: 0 0 !important;
+	font-size: 14px !important;}
+    .testimonial h5 {
+    text-align: left !important;}
+
+    .post h4 {
+    font-size: 16px !important;
+    max-width: 220px !important;}
+    .post ul li i {
+    font-size: 10px !important;}
+    .post ul li span {
+    font-size: 9px !important;
+    font-weight: 300 !important;}
+    .post ul {
+    margin: 4px 0px !important;
+    margin-bottom: 10px !important;}
+    .post a {
+    padding: 3px 20px !important;
+    font-size: 11px !important;}
+    .post ul li {
+    margin-left: 5px;}
+
+
+}
+
+
+@media (max-width: 767px){
+	.welcome-section {
+    background: #333333;}
+    .wel-content {
+    max-width: 350px !important;
+    text-align: center;
+    margin: 0 auto;}
+    .classbot-content p {
+    font-size: 12px;}
+
+
+
+
+}
+
+
+@media (max-width: 991px){
+	.search {display: none;}
+	.wel-content {
+    max-width: 340px;}
+    .wel-content p {
+    font-size: 14px;}
+    .testimonial-section {
+    background: #333333;}
+    .testimonial-content h4 {
+    text-align: center;}
+    .testimonial-content h2 {
+    text-align: center;}
+    .testimonial p {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;}
+    .testimonial h5 {
+    text-align: center;}
+    .testimonial-content i {
+    display: none;}
+
+    .post h4 {
+    font-size: 20px;
+    max-width: 250px;}
+    .post ul li i {
+    font-size: 14px;}
+    .post ul li span {
+    font-size: 13px;}
+    .post ul {
+    margin: 15px 0px;
+    margin-bottom: 22px;}
+    .post a {
+    padding: 5px 25px;
+    font-size: 16px;}
+    .footerpost h4 {
+    max-width: 240px;}
+    .footerleft h6 {
+    text-align: center;}
+    .footer-right ul {
+    text-align: center;}
+}
